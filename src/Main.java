@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int price = 24365;
-        int pricemile = 10;
+        int price = 15623;
+        int pricemile = 20;
 
         int mile = price / pricemile;
 
